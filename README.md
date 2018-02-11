@@ -1,2 +1,2 @@
 # Poet Customized WP Functions
-Customized Your WP Functions
+A Wordpress Plugin that Customized Your WP Functions
