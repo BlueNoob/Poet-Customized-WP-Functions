@@ -27,7 +27,7 @@ function new_from_name($email){
     $wp_from_name = get_option('blogname');
     return $wp_from_name;
 }
- 
+
 function new_from_email($email) {
     $wp_from_email = get_option('admin_email');
     return $wp_from_email;
