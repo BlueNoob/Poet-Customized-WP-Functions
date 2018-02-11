@@ -1,2 +1,2 @@
-# poet-wp-customized
-customize your wp functions
+# Poet Customized WP Functions
+Customized Your WP Functions
