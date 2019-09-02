@@ -5,7 +5,7 @@
     Version: 1.0
     Author: BlueNoob
     Author URI: https://www.bluenoob.com
-    Plugin URI: https://www.bluenoob.com
+    Plugin URI: https://github.com/BlueNoob/Poet-Customized-WP-Functions
     */
 /*****************************************************
   移除 WordPress 加载的JS和CSS链接中的版本号
